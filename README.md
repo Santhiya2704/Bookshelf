@@ -27,5 +27,5 @@ The **BOOKSHELF** web application is a simple, interactive platform where users 
 4.  Delete a book: Click the 'Delete' button next to the book you want to remove.
 
 Contact
-For any questions or suggestions, feel free to reach out via LinkedIn linkedin.com/in/santhiya-r-bb245b2b3
+For any questions or suggestions, feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/santhiya-r-bb245b2b3)
 
